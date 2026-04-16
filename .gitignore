@@ -1,0 +1,24 @@
+HELP.md
+  target/
+  !.mvn/wrapper/maven-wrapper.jar
+  !**/src/main/**/target/
+  !**/src/test/**/target/
+  .mvn/wrapper/maven-wrapper.properties
+  .DS_Store
+  *.class
+  *.log
+  *.jar
+  *.war
+  *.ear
+  *.zip
+  *.tar.gz
+  *.rar
+  node_modules/
+  frontend/build/
+  frontend/dist/
+  .env
+  *.env.local
+  .idea/
+  *.iml
+  .vscode/
+  
